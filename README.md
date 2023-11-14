@@ -12,10 +12,6 @@ Sketch Arduino ini menggunakan library LedControl untuk menampilkan animasi hati
 
 Hubungkan matriks LED ke papan Arduino:
 
-- DIN_PIN (Data In) ke pin 11
-- CS_PIN (Chip Select) ke pin 10
-- CLK_PIN (Clock) ke pin 13
-- Pin tombol (pinTombolUp) ke pin 2
 
 | Fungsi                  | Pin Arduino | Koneksi Matriks LED 8x8 |
 |-------------------------|-------------|-------------------------|
